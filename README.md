@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **DataCamp python Data Scientist**
 
-- 👨‍💻 All of my projects are available at **<a href="https://github.com/Abdelrahman-Shamikh" target="_blank">Github</a>**
+- 👨‍💻 All of my projects are available at [**Github**](https://github.com/Abdelrahman-Shamikh)
 
-- 📫 How to reach me: **<a href="mailto:emadabdelrahman749@gmail.com">Email</a>**
+- 📫 How to reach me: [**Email**](mailto:emadabdelrahman749@gmail.com)
 
-- 📄 Know about my experiences: **<a href="https://drive.google.com/drive/folders/1vKk4Zpqt6Oz3rmaAyHtLIxPQc_tovY0X" target="_blank">Resume</a>**
+- 📄 Know about my experiences: [**Resume**](https://drive.google.com/drive/folders/1vKk4Zpqt6Oz3rmaAyHtLIxPQc_tovY0X)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
