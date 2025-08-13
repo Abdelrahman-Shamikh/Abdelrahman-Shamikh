@@ -46,5 +46,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman-shamikh" alt="GitHub Streak" />
 </p>
 
-## 📈 GitHub Contributions
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman-shamikh&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdelrahman-shamikh&theme=radical" alt="WakaTime Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman-shamikh&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_title=true" alt="Contribution Graph"/> </p>
