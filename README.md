@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **IBM Data Scientist track in DEPI Program by Ministry of Communication**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abdelrahman-Shamikh](https://github.com/Abdelrahman-Shamikh)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Abdelrahman-Shamikh)
 
 - 💬 Ask me about **python ,Pandas , Matplotlib, pytorch,Tensorflow,feature Engineering and Data Cleaning**
 
-- 📫 How to reach me **emadabdelrahman749@gmail.com**
+- 📫 How to reach me <a href="emadabdelrahman749@gmail.com">Gmail</a>
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1vKk4Zpqt6Oz3rmaAyHtLIxPQc_tovY0X](https://drive.google.com/drive/folders/1vKk4Zpqt6Oz3rmaAyHtLIxPQc_tovY0X)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1vKk4Zpqt6Oz3rmaAyHtLIxPQc_tovY0X)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
