@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Emad</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
 
-- 🌱 I’m currently learning **DataCamp python Data Scientist**
+- 🌱 I’m currently learning ** IBM Data Scientist track as DEPI Program by Ministry of Communication **
 
 - 👨‍💻 All of my projects are available at [**Github**](https://github.com/Abdelrahman-Shamikh)
 
