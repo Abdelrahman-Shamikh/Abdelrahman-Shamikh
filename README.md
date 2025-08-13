@@ -19,7 +19,7 @@
 <a href="https://kaggle.com/abdelrahmanemad1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
 </p>
 
----
+
 
 ## 🛠️ Languages and Tools
 <p align="left"> 
@@ -38,7 +38,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
 </p>
 
----
+
 
 ## 📊 GitHub Status
 <p align="center">
