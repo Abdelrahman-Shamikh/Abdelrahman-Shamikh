@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: [**Email**](mailto:emadabdelrahman749@gmail.com)
 
-- 📄 Know about my experiences: [**Resume**](https://drive.google.com/drive/folders/1vKk4Zpqt6Oz3rmaAyHtLIxPQc_tovY0X)
+- 📄 Know about my experiences: [**Resume**](https://drive.google.com/file/d/1CCbJtmM5hkyyYbNrKjWQoaJxrf43rnhO/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
