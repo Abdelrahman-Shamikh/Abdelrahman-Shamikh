@@ -13,7 +13,7 @@
 
 - 📄 Learn more about my experiences: [Resume](https://drive.google.com/drive/folders/1vKk4Zpqt6Oz3rmaAyHtLIxPQc_tovY0X)  
 
-- 📂 **Check out my portfolio:** [My Portfolio on Gamma](https://abdelrahman-emad-lx1uws7.gamma.site/)
+- 📂 **Check out my portfolio:** [Abdelrahman Emad](https://abdelrahman-emad-lx1uws7.gamma.site/)
 ## 🤝 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/abdelrahmanemad1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
