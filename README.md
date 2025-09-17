@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Pandas, Matplotlib, PyTorch, TensorFlow, Feature Engineering, and Data Cleaning**  
 
-- 📫 How to reach me: <a href="mailto:emadabdelrahman749\\@gmail.com">emadabdelrahman749\\@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:emadabdelrahman749@gmail.com">Email</a>
 
 - 📄 Learn more about my experiences: [Resume](https://drive.google.com/drive/folders/1vKk4Zpqt6Oz3rmaAyHtLIxPQc_tovY0X)  
 
